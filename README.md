@@ -1,1 +1,1 @@
-[![Spotify](https://novatorem.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fredi.maihub)
+[![Spotify](https://spotify-playing.fredimaihub.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fredi.maihub)
